@@ -2,5 +2,5 @@
 
 ## TODO
 
-- [ ] Release TIGeR-300K Dataset (About 1 weeks)
-- [ ] Release the SFT-trained TIGeR model (About 2 weeks)
+- [ ] Release TIGeR-300K Dataset (In about 1 week)
+- [ ] Release the SFT-trained TIGeR model (In about 2 weeks)
