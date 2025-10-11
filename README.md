@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.07181-b31b1b.svg)](https://arxiv.org/abs/2510.07181) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/hany01rye/TIGeR) [![Homepage](https://img.shields.io/badge/Homepage-Project%20Page-purple)](https://hany01rye.github.io/TIGeR/)
+[![arXiv](https://img.shields.io/badge/📄%20arXiv-2510.07181-b31b1b.svg)](https://arxiv.org/abs/2510.07181) [![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-TIGeR-blue)](https://huggingface.co/hany01rye/TIGeR) [![Project](https://img.shields.io/badge/🏠%20Project-Homepage-purple)](https://hany01rye.github.io/TIGeR/)
 
 </div>
 
