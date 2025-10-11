@@ -10,6 +10,7 @@
 
 - [x] Release the model weights
 - [ ] Release TIGeR-300K Dataset
+- [ ] Tool Lib used in Benchmark Evaluation
 
 ## 📄 Citation
 
