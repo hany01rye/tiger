@@ -15,11 +15,11 @@
 ## 📄 Citation
 
 ```bibtex
-@misc{2510.07181,
-  Author = {Yi Han and Cheng Chi and Enshen Zhou and Shanyu Rong and Jingkun An and Pengwei Wang and Zhongyuan Wang and Lu Sheng and Shanghang Zhang},
-  Title = {TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics},
-  Year = {2025},
-  Eprint = {arXiv:2510.07181},
+@article{han2025tiger,
+  title={TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics},
+  author={Han, Yi and Chi, Cheng and Zhou, Enshen and Rong, Shanyu and An, Jingkun and Wang, Pengwei and Wang, Zhongyuan and Sheng, Lu and Zhang, Shanghang},
+  journal={arXiv preprint arXiv:2510.07181},
+  year={2025}
 }
 ```
 
